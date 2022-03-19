@@ -23,12 +23,11 @@ function App() {
     createPoekmonObject(data.results) 
     await console.log(allPokemons)
   }
-
+  
   useEffect(() => {
     getAllPokemons()
    }, [])
   
-
   return (
     <div className="app-contaner">
       <h1 className="text">Pokedex</h1>
