@@ -51,6 +51,18 @@ code {
 .psychic {
   background-color: #eac0f7;
 }
+.ice {
+  background-color: #88e7f8;
+}
+.dragon {
+  background-color: #f57429;
+}
+.dark{
+  background-color: #999695;
+}
+.steel {
+  background-color: #e0e0e0;
+}
 .app-contaner {
   display: flex;
   flex-direction: column;
